@@ -1,3 +1,9 @@
 {
-  "private": true
+  "private": true,
+  "scripts": {
+    "eslint": "eslint 'index.js'"
+  },
+  "devDependencies": {
+    "eslint": "8.8.0"
+  }
 }
